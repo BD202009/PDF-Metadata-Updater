@@ -1,5 +1,7 @@
 # PDF Metadata Updater
 
+![](https://github.com/BD202009/PDF-Metadata-Updater/blob/main/logo/PDF-Metadata-Updater.png)
+
 This Python script updates the metadata, specifically the Producer and Creator fields, of given PDF files. The purpose is to make it possible to open non-scanned files, for example, using ScanSnap Home. Additionally, the script creates 'output', 'input', and 'config' folders in the root directory to store the processed files.
 
 
